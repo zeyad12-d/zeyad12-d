@@ -1,29 +1,21 @@
-<h1 align="center">Hi 👋, I'm Zeyad Yasser Nassef</h1>
-<h3 align="center">A passionate backend .NET developer from Egypt 🇪🇬</h3>
+# 👋 Hi, I'm Zeyad Yasser Nassef
+
+🎓 I'm a Computer Science student and an aspiring **Backend .NET Developer**.  
+I'm currently working on improving my skills in building web applications using **ASP.NET MVC**, **Entity Framework**, **Web APIs**, and applying **SOLID principles** and design patterns.
 
 ---
 
-- 💼 I’m a **.NET Backend Developer** with a solid foundation in C#, OOP, and design patterns.
-- 🌱 Currently learning and applying **MVC, ADO.NET, Entity Framework, and Clean Code principles**.
-- 🧠 I'm also familiar with **Frontend Basics** like HTML, CSS, JavaScript, and Bootstrap.
-- 🔭 Currently working on improving my skills and building real-world applications.
-- 🤝 Open for collaborations on backend-heavy apps or educational platforms.
-- 📫 Reach me via:  
-  - 📧 **mnc0000002@gmail.com**  
-  - 📧 **zeadyasser054@gmail.com**
+## 💻 Languages & Frameworks:
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages & Frameworks:
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
 ![.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)
 ![EF Core](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=dotnet)
 ![ADO.NET](https://img.shields.io/badge/-ADO.NET-05122A?style=flat&logo=windows)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+---
 
 ### 🌐 Frontend:
+
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -31,14 +23,31 @@
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 Concepts:
 
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeyadYasser&show_icons=true&theme=tokyonight)
+- OOP (Object-Oriented Programming)  
+- SOLID Principles  
+- Design Patterns  
+- Clean Architecture  
+- MVC Pattern  
+- Web API Development
 
 ---
 
-## 🔗 Let's Connect
+## 📘 Currently Working On
 
-Feel free to contact me for tech discussions, collaborations, or mentoring 🤝  
-📧 **mnc0000002@gmail.com**  
-📧 **zeadyasser054@gmail.com**
+- 🧪 Practicing in-memory data operations in MVC  
+- 🛠️ Developing a graduation project with a team (frontend, backend, UI/UX, mobile)  
+- 🔁 Understanding full lifecycle of HTTP requests with middleware and pipeline  
+- 🚀 Preparing to build full-stack .NET web applications
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email 1: [mnc0000002@gmail.com](mailto:mnc0000002@gmail.com)  
+- 📧 Email 2: [zeadyasser054@gmail.com](mailto:zeadyasser054@gmail.com)  
+
+---
+
+> ⚡ Always learning, always building. Open to internships, collaborations, and cool project ideas!
